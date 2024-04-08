@@ -1,0 +1,8 @@
+.continer{
+  height: 30rem;
+  width: 50rem;
+  border: 2px solid red;
+  overflow: hidden;
+  /* background-color: red; */
+  margin: 1rem 5rem ;
+}
